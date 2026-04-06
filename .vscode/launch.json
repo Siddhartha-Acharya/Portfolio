@@ -5,7 +5,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Open Portfolio",
-      "file": "${workspaceFolder}/Siddhartha_Acharya_Portfolio.html"
+      "file": "${workspaceFolder}/index.html"
     }
   ]
 }
